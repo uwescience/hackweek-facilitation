@@ -2,3 +2,4 @@
 Geo-Hackweek-2018-Workshop-On-Geospatial-Data-Science.csv
 .ipynb_checkpoints/
 *.csv
+_build
