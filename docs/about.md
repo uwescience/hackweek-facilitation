@@ -1,3 +1,1 @@
-# Aegaeo viae
-
-## About us
+# About us
