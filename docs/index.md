@@ -1,17 +1,4 @@
-# Welcome to MkDocs
+# Overview
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+This documentation provides information on methods for hosting and facilitating data science educational workshops, in particular short (1-2 week) interactive, participant-driven events. The approaches described here come out of experimentation with the [hackweek model](https://www.pnas.org/content/115/36/8872.short) designed within the [Moore/Sloan Data Science Environment](http://msdse.org/).
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
