@@ -1,6 +1,8 @@
 # Opening Session
 
-The purpose of the opening session is to welcome everyone to the event, facilitate group connections, review logistics, provide a roadmap of what to expect, discuss the code of conduct and establish norms of behavior.
+The opening session provides organizers with a unique opportunity to set the overall tone of the event. Hackweeks are a relatively new learning model, so participants may arrive on the first day not knowing quite what to expect. Careful planning of the open session can help alleviate participant anxiety by establishing a code of conduct and norms of behavior, and setting intentions around building a welcoming learning environment.
+
+We detail below a variety of topics and activities that can be included in the opening session. We have experimented with opening sessions lasting as long as 1.5 hours, and the length will depend on the total number of activities planned.
 
 ## Icebreaker
 
